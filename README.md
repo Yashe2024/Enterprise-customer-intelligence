@@ -40,5 +40,3 @@ python -m src.train
 uvicorn src.api:app --reload
 pytest -q
 ```
-
-Synthetic data only. This project is for demonstration and portfolio use.
